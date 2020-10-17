@@ -1,0 +1,13 @@
+{
+  "name": "blockDetails",
+  "version": "1.0.0",
+  "license": "MIT",
+  "bin": {
+    "outside": "bin/blockDetails"
+  },
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {
+    "@polkadot/api": "^2.2.1"
+  }
+}
